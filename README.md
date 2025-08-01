@@ -19,7 +19,8 @@ This article examines how patriarchal systems, cultural silence, and legal looph
   - 📬 Submitted to Ms. Magazine (Print)  
   - 📬 Submitted to OpenDemocracy (optional)
 
----
+### 📄 Article:
+ [Caged Culture: Honor Killings in Pakistan](./Caged_Culture_AzmatFatima.pdf)
 
 ### 📌 Purpose
 
@@ -32,3 +33,4 @@ This piece was written to raise awareness, contribute to public discourse, and s
 This article is part of my public writing portfolio and may be cited or referenced with attribution. For inquiries, contact: [your writer email]
 
 > “This is for them — and for all of us still learning how to speak.”
+> 
